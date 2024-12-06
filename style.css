@@ -1,0 +1,25 @@
+header{
+    background-color: navy;
+    height: 70px;
+    text-align: center;
+    padding-top: 3px;
+}
+section{
+    background-color: rgb(130, 192, 228);
+}
+nav{
+    background-color: yellow;
+    float: left;
+}
+article{
+    background-color: brown;
+}
+div{
+    background-color: grey;
+}
+aside{
+    background-color: greenyellow;
+}
+footer{
+    background-color: red;
+}
